@@ -1,5 +1,5 @@
 {
-  "name": "openMeet",
-  "repository": "https://github.com/fazelesswhite/openmeet",
+  "name": "asynmeet",
+  "repository": "https://github.com/krithikV/asynmeet/",
   "keywords": ["node", "webrtc", "easyrtc", "video"]
 }
